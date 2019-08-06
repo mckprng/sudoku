@@ -1,0 +1,1 @@
+g++ sudoku2.h sudoku2.cc main2.cc -o main2 && ./main2
