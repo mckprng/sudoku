@@ -44,8 +44,8 @@ class Sudoku{
 		// Print function
 		void display_sudoku(int[9][9]);
 
-        // Read file and solve sudoku
-        int solve(void);
+        	// Read file and solve sudoku
+        	int solve(void);
 };
 
 #endif
